@@ -1,0 +1,29 @@
+{
+  "error": false,
+  "msg": "Successfully gets driver",
+  "data": {
+    "page": 1,
+    "limit": 10,
+    "totalDocs": 1,
+    "totalPages": 1,
+    "docs": [
+      {
+        "_id": "653f515271acfdfd38d60529",
+        "driver": {
+          "_id": "6538bcf463b224168c1f5d98",
+          "uid": "U-FQJ9DGB",
+          "name": "Ar Tuhin",
+          "phone": "+8801521416942",
+          "email": "driver41@gmail.com",
+          "image": "https://appstick-resources.s3.ap-southeast-1.amazonaws.com/one-ride-storage/user/U-FQJ9DGB/profile/7ad907cb7f75c3f8-1698556671464.jpg"
+        },
+        "owner": "65374946f0971947006e65d9",
+        "createdAt": "2023-10-30T06:46:42.095Z",
+        "updatedAt": "2023-10-30T06:46:42.095Z",
+        "__v": 0
+      }
+    ],
+    "hasNextPage": false,
+    "hasPrevPage": false
+  }
+}

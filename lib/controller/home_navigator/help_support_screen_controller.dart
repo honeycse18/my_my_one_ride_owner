@@ -1,0 +1,16 @@
+import 'package:get/get.dart';
+import 'package:one_ride_car_owner/utils/app_singleton.dart';
+import 'package:one_ride_car_owner/utils/constants/app_constants.dart';
+
+class HelpSupportScreenController extends GetxController {
+  // RxBool isLoading = false.obs;
+  RxBool toggleNotification = true.obs;
+  String get currentLanguageText {
+    final dynamic currentLanguageName =
+        AppSingleton.instance.localBox.get(AppConstants.hiveDefaultLanguageKey);
+    if (currentLanguageName is String) {
+      return currentLanguageName;
+    }
+    return '';
+  }
+}

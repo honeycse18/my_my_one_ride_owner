@@ -1,0 +1,23 @@
+{
+    "_id": "65a64afe6fba8a291e79f4a4",
+    "driver": {
+        "_id": "6538bcf463b224168c1f5d98",
+        "uid": "U-FQJ9DGB",
+        "name": "Ar Tuhin",
+        "phone": "+8801521416942",
+        "email": "driver41@gmail.com",
+        "image": "https://appstick.s3.ap-southeast-1.amazonaws.com/one-ride-storage/user/U-FQJ9DGB/profile/7P79L57R-ahad.png"
+    },
+    "owner": {
+        "_id": "652fb59b48bfba8190b0308a",
+        "uid": "U-GD4A9XA",
+        "name": "Ar Tuhin",
+        "email": "owner41@gmail.com",
+        "image": "https://appstick.s3.ap-southeast-1.amazonaws.com/one-ride-storage/user/U-GD4A9XA/profile/NU2JLT7V-profile_image.jpg"
+    },
+    "fleet": false,
+    "status": "pending",
+    "createdAt": "2024-01-16T09:23:10.948Z",
+    "updatedAt": "2024-01-16T09:23:10.948Z",
+    "__v": 0
+}

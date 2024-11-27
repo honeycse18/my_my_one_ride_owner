@@ -1,0 +1,36 @@
+{
+    "error": false,
+    "msg": "Successfully gets Dashboard",
+    "data": {
+        "_id": "652fb59b48bfba8190b0308a",
+        "rides": {
+            "2024-01-05": 2,
+            "2024-01-07": 1,
+            "2024-01-04": 1,
+            "2024-01-08": 1,
+            "2024-01-06": 2
+        },
+        "rents": {
+            "2024-01-06": 2,
+            "2024-01-07": 2,
+            "2024-01-08": 3,
+            "2024-01-03": 1
+        },
+        "vehicles": [
+            {
+                "_id": "659b8137407d1b1a7de3113d",
+                "vehicle": {
+                    "_id": "65812be0d05bd5ba1ebeca4e",
+                    "uid": "V-PEVZB8R",
+                    "name": "TVS"
+                },
+                "type": "rent",
+                "stats": {
+                    "cancelled": 2,
+                    "completed": 7,
+                    "accepted": 1
+                }
+            }
+        ]
+    }
+}
